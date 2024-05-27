@@ -1,6 +1,21 @@
-This dataset comprises sales transactions of a French bakery from January 1, 2021, to September 30, 2022, totaling 234,005 entries across 6 columns. These columns include order date, time sequence, transaction ticket number, articles (product name), quantity sold, and unit price. 
+This dataset comprises sales transactions of a French bakery from 01/01/2021 to 30/09/2022, totaling 234,005 entries across 6 columns. These columns include order date, time, transaction ticket number, articles (product name), quantity sold, and unit price. The goal of this analysis is to make strategic decisions based on sales trends and patterns. Specifically, I want to know the purchase frequency by item and how that might vary by time, day, and month.
 
-The goal of this analysis is to make strategic decisions based on sales trends and patterns. Specifically, I want to know the purchase frequency by item and how that might vary by time, day, and month.
+<H2>Dataset</H2>
+<ul>
+<li>There are 148 items (article) and 1 item is labeled “.”</li>
+<li>Negative quantities are assumed to be refunds</li>
+<li>Negative quantities are assumed to be refunds</li>
+<li>Items priced at 0,00 Euros are assumed to be freebies</li>
+
+Analyzing numbers such as total transactions, revenue, and sales by product types will help to pinpoint what sells best and reveal growth areas. Comparing day-by-day, week-on-week, and month-on-month data will also help spotlight trends. 
+
+<H2>Which days are busiest?</H2>
+
+<H2>Which months are the busiest?</H2>
+
+<H2>At what time of day are the most sales made?</H2>
+
+<H2>Which items sell best? </H2>
 
 <H2>Summary of Exploratory Analysis</H2>
 

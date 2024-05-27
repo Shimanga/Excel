@@ -1,6 +1,6 @@
 <H2>What is the best-selling product in French bakeries?</H2>
 
-This dataset comprises sales transactions of a French bakery from 01/01/2021 to 30/09/2022 from <a href="https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales">Kaggle</a>. This analysis aims to aid strategic decision-making based on sales trends and patterns.  Specifically, I want to know the purchase frequency by item and how that might vary by time, day, and month. The data will reveal the best-selling product in a French bakery.
+This dataset comprises sales transactions of a French bakery from 01/01/2021 to 30/09/2022 from <a href="https://www.kaggle.com/datasets/matthieugimbert/french-bakery-daily-sales">Kaggle</a>. This analysis aims to aid strategic decision-making based on sales trends and patterns. Analyzing numbers such as total transactions, revenue, and sales by product types will help to pinpoint what sells best and reveal growth areas. Comparing day-by-day, week-on-week, and month-on-month data will also help spotlight trends. The data will reveal the best-selling product in a French bakery.
 
 <H2>Dataset</H2>
 <ul>
@@ -10,8 +10,6 @@ This dataset comprises sales transactions of a French bakery from 01/01/2021 to 
 <li>Negative quantities are assumed to be refunds</li>
 <li>Prices were not fixed and seemed to change throughout the year. Assumptions on price changes could have been due to fluctuating production costs</li>
 <li>Items priced at 0,00 Euros are assumed to be freebies</li>
-
-Analyzing numbers such as total transactions, revenue, and sales by product types will help to pinpoint what sells best and reveal growth areas. Comparing day-by-day, week-on-week, and month-on-month data will also help spotlight trends. 
 
 <H2>Which months are the busiest?</H2>
 ![image](https://github.com/Shimanga/Excel/assets/7394101/a1d89536-2933-49e0-ad21-63da719ae8c9)

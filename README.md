@@ -9,9 +9,11 @@ This dataset comprises sales transactions of a French bakery from 01/01/2021 to 
 
 Analyzing numbers such as total transactions, revenue, and sales by product types will help to pinpoint what sells best and reveal growth areas. Comparing day-by-day, week-on-week, and month-on-month data will also help spotlight trends. 
 
-<H2>Which days are busiest?</H2>
-
 <H2>Which months are the busiest?</H2>
+![image](https://github.com/Shimanga/Excel/assets/7394101/a1d89536-2933-49e0-ad21-63da719ae8c9)
+
+<H2>Which days are busiest?</H2>
+![image](https://github.com/Shimanga/Excel/assets/7394101/6390f454-190d-4f1e-a91f-03cbc48847a7)
 
 <H2>At what time of day are the most sales made?</H2>
 

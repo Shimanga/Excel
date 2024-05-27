@@ -4,7 +4,7 @@ This dataset comprises sales transactions of a French bakery from 01/01/2021 to 
 
 <H2>Dataset</H2>
 <ul>
-<li> 234,005 Total entries across 6 columns</li>
+<li> 234,005 total entries across 6 columns</li>
 <li>These columns include order date, time, transaction ticket number, articles (product name), quantity sold, and unit price</li>
 <li>There are 148 products (article) and 1 item is labeled “.”</li>
 <li>Negative quantities are assumed to be refunds</li>

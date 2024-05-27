@@ -1,3 +1,5 @@
+<H2>What is the best-selling product in French bakeries?</H2>
+
 This dataset comprises sales transactions of a French bakery from 01/01/2021 to 30/09/2022, totaling 234,005 entries across 6 columns. These columns include order date, time, transaction ticket number, articles (product name), quantity sold, and unit price. This analysis aims to aid strategic decision-making based on sales trends and patterns.  Specifically, I want to know the purchase frequency by item and how that might vary by time, day, and month. The data will reveal the best-selling product in a French bakery.
 
 <H2>Dataset</H2>

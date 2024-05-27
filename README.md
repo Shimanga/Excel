@@ -15,13 +15,13 @@ This dataset comprises sales transactions of a French bakery from 01/01/2021 to 
 <img src="https://github.com/Shimanga/Excel/assets/7394101/a1d89536-2933-49e0-ad21-63da719ae8c9"></img>
 
 <H2>Which days are busiest?</H2>
-![image](https://github.com/Shimanga/Excel/assets/7394101/6390f454-190d-4f1e-a91f-03cbc48847a7)
+<img src="https://github.com/Shimanga/Excel/assets/7394101/6390f454-190d-4f1e-a91f-03cbc48847a7"></img>
 
 <H2>At what time of day are the most sales made?</H2>
-![image](https://github.com/Shimanga/Excel/assets/7394101/c38058b6-c21b-4102-8520-591c728e8733)
+<img src="https://github.com/Shimanga/Excel/assets/7394101/c38058b6-c21b-4102-8520-591c728e8733"></img>
 
 <H2>Which items sell best? </H2>
-![image](https://github.com/Shimanga/Excel/assets/7394101/b866e174-7ebc-42ee-8a44-40d692d7e300)
+<img src="https://github.com/Shimanga/Excel/assets/7394101/b866e174-7ebc-42ee-8a44-40d692d7e300"></img>
 
 <H2>Summary of Exploratory Analysis</H2>
 
